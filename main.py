@@ -1,3 +1,4 @@
+"""Activity: My First Repo"""
 
 def greet(name):
     print(f"Hello, {name}!")
@@ -8,3 +9,4 @@ def add(a, b):
     return a + b
 
 print(add(6, 7))
+
