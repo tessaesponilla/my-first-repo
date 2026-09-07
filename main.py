@@ -10,3 +10,8 @@ def add(a, b):
 
 print(add(6, 7))
 
+def subtract(a, b):
+    return a - b
+
+print(subtract(6, 7))
+
